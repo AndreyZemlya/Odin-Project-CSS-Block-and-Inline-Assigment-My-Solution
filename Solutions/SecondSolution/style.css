@@ -1,0 +1,57 @@
+
+.sect
+{
+    background-color: white;
+    justify-self: center;
+    margin-bottom: 100px;
+    padding: 8px;
+    padding-top: 16px;
+    padding-bottom: 1px;
+}
+
+.temp
+{
+    background-color: rgb(218, 245, 255);
+    width: 365px;
+    margin-bottom: 8px;
+}
+
+.firstArea
+{
+    padding: 2px;
+}
+
+.secondArea
+{
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.thirdArea
+{
+    justify-items: center;
+    padding: 8px;
+}
+
+button
+{
+    border: 0px;
+    padding: 8px 24px;
+}
+
+#firstText, #secondText, #thirdText
+{
+    color: black;
+    margin: 2px;
+}
+
+#firstText
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#secondText
+{
+    margin: 4px;
+}
